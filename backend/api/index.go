@@ -2,7 +2,7 @@ package handler
 
 import (
 	"net/http"
-	"woohoodsa/internal/app"
+	"woohoodsa/pkg/app"
 )
 
 var server http.Handler
